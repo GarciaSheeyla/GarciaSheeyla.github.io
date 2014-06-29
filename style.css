@@ -1,3 +1,10 @@
-body {
-background: #B35900;
+body
+{
+background: #9cda9c;
+text-align: center;
+}
+#main
+{
+  width: 1000px;
+  length: 600px;
 }
