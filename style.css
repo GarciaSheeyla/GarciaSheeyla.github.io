@@ -1,6 +1,8 @@
 body
 {
-background: #b2e3ba;
+
+background-image:url('"tumblr_m4hj78cxz81ql7vqeo1_500.jpg"');
+background-color:#cccccc;
 text-align: center;
 }
 #main
@@ -8,10 +10,4 @@ text-align: center;
   width: 1000px;
   length: 600px;
 }
-.rotate90 {
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
+
